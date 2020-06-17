@@ -38,7 +38,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 /*BEGIN PS3 Controller Styling*/
 /*This class defines the base attributes of the skin*/
 .controller.custom{
-    background: url(drawing/drawing.svg); 
+    background: url(svg/base.svg); 
     background-repeat: no-repeat;
     background-position: 0px 0px;
     width: 970px;
