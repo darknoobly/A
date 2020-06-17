@@ -38,7 +38,9 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 /*BEGIN PS3 Controller Styling*/
 /*This class defines the base attributes of the skin*/
 .controller.custom{
-    background: url(png/base.png); 
+    background: url(https://raw.githubusercontent.com/darknoobly/A/master/png/base.png); 
+    width: 964px;
+    height: 558px;
 }
 .custom.disconnected {
     background: url(png/disconnected.png); 
